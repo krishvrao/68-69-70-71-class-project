@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+.travel{
+    border: 1px solid;
+    border-color: coral;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    
+}
+.travel img{
+   width: 100%;
+    
+}
+.travel h4, .travel h5{
+    margin-left: 20px;
+}
+.ach {
+    font-size: 30px;
+    padding: 6px 22px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    
+}
